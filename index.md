@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Heya I am Hrishikesh, an engineering student, a pragrammer and a web developer.
